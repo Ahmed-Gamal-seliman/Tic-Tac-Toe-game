@@ -1,0 +1,2 @@
+D:\CodeBlocks\MinGW\bin\ar.exe qc libGameOperations.a CMakeFiles/GameOperations.dir/src/GameOperations.c.obj
+D:\CodeBlocks\MinGW\bin\ranlib.exe libGameOperations.a

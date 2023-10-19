@@ -1,0 +1,2 @@
+D:\CodeBlocks\MinGW\bin\ar.exe qc libcunit.a CMakeFiles/cunit.dir/src/Automated.c.obj CMakeFiles/cunit.dir/src/Basic.c.obj CMakeFiles/cunit.dir/src/Console.c.obj CMakeFiles/cunit.dir/src/CUError.c.obj CMakeFiles/cunit.dir/src/MyMem.c.obj CMakeFiles/cunit.dir/src/TestDB.c.obj CMakeFiles/cunit.dir/src/TestRun.c.obj CMakeFiles/cunit.dir/src/Util.c.obj CMakeFiles/cunit.dir/src/unitTesting.c.obj
+D:\CodeBlocks\MinGW\bin\ranlib.exe libcunit.a

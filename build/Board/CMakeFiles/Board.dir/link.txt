@@ -1,0 +1,2 @@
+D:\CodeBlocks\MinGW\bin\ar.exe qc libBoard.a CMakeFiles/Board.dir/src/Board.c.obj
+D:\CodeBlocks\MinGW\bin\ranlib.exe libBoard.a
